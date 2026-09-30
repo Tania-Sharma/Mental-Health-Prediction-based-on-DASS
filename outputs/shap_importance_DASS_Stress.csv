@@ -1,0 +1,77 @@
+Base_Feature,Domain,Mean_Absolute_SHAP
+Job Market Insecurity,Economic & Environmental Security,0.20199961229260568
+Gender,Demographics,0.18653590576821255
+Various struggle to continue study,Academic & Institutional,0.17954479341173196
+Inferiority complex,"Trauma, Abuse & Self-Perception",0.17418090845192347
+Falling sick frequently,Lifestyle & Health Behavior,0.16898457914119872
+Deprived of deservation,"Trauma, Abuse & Self-Perception",0.13837489896389538
+Residences Area,Economic & Environmental Security,0.1247430645780434
+Supportive friends,Social & Interpersonal,0.12251602210202531
+Lack of personal space at home/ hostel,Economic & Environmental Security,0.12237503089111142
+Abused/cheated by partner,Social & Interpersonal,0.11085438964638586
+Fear of not achieving life goals/ expectations,Economic & Environmental Security,0.10856796849532964
+Play video-game,Lifestyle & Health Behavior,0.10678098965178294
+Often sleep late at night.,Lifestyle & Health Behavior,0.10533469329854989
+Not achieving target/ expectation.,Economic & Environmental Security,0.10485737959280157
+Cheated by friend,Social & Interpersonal,0.10258869404975329
+Insulted/ harassed by teacher,Academic & Institutional,0.09512812596746267
+Pressure of academic competition,Academic & Institutional,0.09502115484371157
+Age,Demographics,0.09501427279212978
+Biased Teacher,Academic & Institutional,0.09166040096960422
+Death in the family,Family & Domestic Environment,0.08899171112882502
+Family Type,Family & Domestic Environment,0.08854072157773592
+Worried about academic failure,Academic & Institutional,0.08557357594609732
+Socio economic status,Economic & Environmental Security,0.08484083385443712
+Social media monitoring,Social & Interpersonal,0.08404856689008584
+Lack of money to meet basic needs,Economic & Environmental Security,0.08000690129610308
+Physical exercise/ Yoga,Lifestyle & Health Behavior,0.07843687908485591
+Frequent arguments among parents,Family & Domestic Environment,0.07778192906127696
+Inferiority in friendship,Social & Interpersonal,0.07767031553021123
+Verbal violence/ abuse,"Trauma, Abuse & Self-Perception",0.07362209379452535
+Often arguments/fights with friends,Social & Interpersonal,0.07001303804746248
+Family pressure on performing well in exam,Academic & Institutional,0.06968549396794722
+Educational qualification,Academic & Institutional,0.06714277209932788
+Prefer to be alone mostly,Social & Interpersonal,0.06581610161242
+Educational Institute Type,Academic & Institutional,0.06125347399327587
+Difficulty in maintaining a standard lifestyle,Economic & Environmental Security,0.061191492176604044
+Academic Year,Academic & Institutional,0.06056161556085133
+Pressure to meet family expectations,Family & Domestic Environment,0.05886952412198517
+Participation in extracurricular activities,Lifestyle & Health Behavior,0.05581081001412945
+Breakup of a romantic relationship,Social & Interpersonal,0.053461636631161095
+Fear of communicating with new people,Social & Interpersonal,0.051164865499573775
+Personality type,Social & Interpersonal,0.04982496920001244
+Religious practices,Lifestyle & Health Behavior,0.049822679330765035
+Bullied/ verbally abused by friends/ others,Social & Interpersonal,0.04969220867330283
+Satisfied relationship with family,Family & Domestic Environment,0.04846341330329789
+Frequent failure in exam,Academic & Institutional,0.04784074801293785
+Marital status,Social & Interpersonal,0.0466196479977897
+Insecurity of physical appearance,Social & Interpersonal,0.04588701739594288
+Self-satisfaction with academic performances,Academic & Institutional,0.045746056086834436
+Unhappy feelings from social media,Social & Interpersonal,0.04515145641581875
+Maintaining a balanced diet,Lifestyle & Health Behavior,0.04510431576096368
+Social media post review,Social & Interpersonal,0.04494444336790475
+Parental satisfaction with academic result,Academic & Institutional,0.04461945504771744
+Smoking cigarette,Lifestyle & Health Behavior,0.04414449169209546
+Emotional violence/ abuse,"Trauma, Abuse & Self-Perception",0.0438245066876602
+Dissatisfaction with living environment,Economic & Environmental Security,0.04328949764400149
+Dissatisfied Neighborhood,Economic & Environmental Security,0.0424218613133981
+Time spent on social media,Social & Interpersonal,0.04214835913608057
+Family pressure on academic selection,Academic & Institutional,0.04128405122240351
+Participate in any sports.,Lifestyle & Health Behavior,0.0412471061997254
+Emotionally supportive family,Family & Domestic Environment,0.032948814350405004
+Biased parents,Family & Domestic Environment,0.03138546945161059
+Experience social restrictions,Economic & Environmental Security,0.030587782465173807
+Traumatic childhood experience,Family & Domestic Environment,0.030164382175804454
+Unsafe Residence,Economic & Environmental Security,0.02900689553036215
+Mental illness history in the family,Family & Domestic Environment,0.027984665782647734
+Social violence/ abuse,"Trauma, Abuse & Self-Perception",0.02731270167354364
+Taking counseling,"Trauma, Abuse & Self-Perception",0.025194025158010426
+Quality relationship with family,Family & Domestic Environment,0.02290377288587077
+Physical abuse,"Trauma, Abuse & Self-Perception",0.022367458306683814
+Addicted family member,Family & Domestic Environment,0.016286469775852158
+Frequent conflicts with family members,Family & Domestic Environment,0.012776433705520307
+Too strict guardians,Family & Domestic Environment,0.012588336200454442
+Divorced family,Family & Domestic Environment,0.007089387423370269
+Sexual abuse,"Trauma, Abuse & Self-Perception",0.005819877427329819
+Smoking of marijuana/weed/ alcohol,Lifestyle & Health Behavior,0.0028273266476791944
+Taking drugs or any other substance?,Lifestyle & Health Behavior,0.0022872535442457777

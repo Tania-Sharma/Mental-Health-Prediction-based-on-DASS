@@ -1,0 +1,83 @@
+feature,category,reason
+Timestamp,EXCLUDE,Collection timestamp; not a meaningful pre-outcome predictor
+Gender,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Age,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Residences Area,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Family Type,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Socio economic status,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Educational qualification,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Educational Institute Name,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Educational Institute Type,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Academic Year,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Marital status,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Taking counseling,REQUIRES REVIEW,May reflect existing mental-health concerns; timing of counseling must be verified
+Mental illness history in the family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Death in the family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Frequent arguments among parents,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Divorced family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Too strict guardians,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Frequent conflicts with family members,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Addicted family member,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Traumatic childhood experience,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Quality relationship with family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Emotionally supportive family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Satisfied relationship with family,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Biased parents,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Family pressure on academic selection,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Frequent failure in exam,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Worried about academic failure,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Family pressure on performing well in exam,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Parental satisfaction with academic result,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Self-satisfaction with academic performances,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Pressure of academic competition,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Various struggle to continue study,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Participation in extracurricular activities,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Play video-game,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Participate in any sports.,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Smoking cigarette,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Smoking of marijuana/weed/ alcohol,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Taking drugs or any other substance?,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Falling sick frequently,REQUIRES REVIEW,Potentially valid health-related predictor; temporal direction should be checked
+Maintaining a balanced diet,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Often sleep late at night.,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Physical exercise/ Yoga,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Religious practices,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Often arguments/fights with friends,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Bullied/ verbally abused by friends/ others,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Breakup of a romantic relationship,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Cheated by friend,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Abused/cheated by partner,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Supportive friends,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Biased Teacher,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Insulted/ harassed by teacher,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Inferiority in friendship,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Insecurity of physical appearance,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Fear of communicating with new people,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Lack of money to meet basic needs,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Difficulty in maintaining a standard lifestyle,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Prefer to be alone mostly,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Often feels stressed,REQUIRES REVIEW,Strong conceptual overlap with DASS Stress; requires detailed assessment
+Personality type,REQUIRES REVIEW,Potentially valid predictor; measurement definition should be verified
+Deprived of deservation,REQUIRES REVIEW,Variable meaning and measurement need clarification
+Inferiority complex,REQUIRES REVIEW,Psychological construct that may overlap with mental-health outcomes
+Time spent on social media,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Social media monitoring,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Social media post review,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Unhappy feelings from social media,REQUIRES REVIEW,Emotional/psychological construct; possible overlap with mental-health outcomes
+Lack of personal space at home/ hostel,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Unsafe Residence,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Dissatisfied Neighborhood,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Experience social restrictions,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Dissatisfaction with living environment,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Physical abuse,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Verbal violence/ abuse,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Emotional violence/ abuse,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Sexual abuse,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Social violence/ abuse,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Job Market Insecurity,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Pressure to meet family expectations,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Not achieving target/ expectation.,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+Fear of not achieving life goals/ expectations,POTENTIALLY VALID,No obvious direct target information identified from the feature name. Requires temporal and construct-level validation.
+DASS_Stress,TARGET,Target variable
+DASS-Anxiety,TARGET,Target variable
+DASS-Depression,TARGET,Target variable

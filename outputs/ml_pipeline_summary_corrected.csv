@@ -1,0 +1,16 @@
+target,fold,train_samples,validation_samples,train_classes,validation_classes,transformed_features,unknown_train_values,unknown_validation_values
+DASS_Stress,1,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS_Stress,2,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",91,0,0
+DASS_Stress,3,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS_Stress,4,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",90,0,0
+DASS_Stress,5,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS-Anxiety,1,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS-Anxiety,2,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS-Anxiety,3,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",91,0,0
+DASS-Anxiety,4,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS-Anxiety,5,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",90,0,0
+DASS-Depression,1,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",91,0,0
+DASS-Depression,2,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",91,0,0
+DASS-Depression,3,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",91,0,0
+DASS-Depression,4,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0
+DASS-Depression,5,352,88,"[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]","[np.int64(0), np.int64(1), np.int64(2), np.int64(3), np.int64(4)]",92,0,0

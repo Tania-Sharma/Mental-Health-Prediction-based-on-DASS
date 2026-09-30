@@ -1,0 +1,8 @@
+item,value
+Number of samples,440
+Original predictor columns,77
+Categorical columns,76
+Numerical columns,1
+CV folds,5
+Random state,42
+Targets,"DASS_Stress, DASS-Anxiety, DASS-Depression"

@@ -1,0 +1,226 @@
+Target,Model,Actual,Predicted,Count
+DASS_Stress,Dummy,0,0,275
+DASS_Stress,Dummy,0,1,0
+DASS_Stress,Dummy,0,2,0
+DASS_Stress,Dummy,0,3,0
+DASS_Stress,Dummy,0,4,0
+DASS_Stress,Dummy,1,0,55
+DASS_Stress,Dummy,1,1,0
+DASS_Stress,Dummy,1,2,0
+DASS_Stress,Dummy,1,3,0
+DASS_Stress,Dummy,1,4,0
+DASS_Stress,Dummy,2,0,61
+DASS_Stress,Dummy,2,1,0
+DASS_Stress,Dummy,2,2,0
+DASS_Stress,Dummy,2,3,0
+DASS_Stress,Dummy,2,4,0
+DASS_Stress,Dummy,3,0,35
+DASS_Stress,Dummy,3,1,0
+DASS_Stress,Dummy,3,2,0
+DASS_Stress,Dummy,3,3,0
+DASS_Stress,Dummy,3,4,0
+DASS_Stress,Dummy,4,0,14
+DASS_Stress,Dummy,4,1,0
+DASS_Stress,Dummy,4,2,0
+DASS_Stress,Dummy,4,3,0
+DASS_Stress,Dummy,4,4,0
+DASS_Stress,Logistic Regression,0,0,188
+DASS_Stress,Logistic Regression,0,1,46
+DASS_Stress,Logistic Regression,0,2,28
+DASS_Stress,Logistic Regression,0,3,11
+DASS_Stress,Logistic Regression,0,4,2
+DASS_Stress,Logistic Regression,1,0,22
+DASS_Stress,Logistic Regression,1,1,17
+DASS_Stress,Logistic Regression,1,2,12
+DASS_Stress,Logistic Regression,1,3,2
+DASS_Stress,Logistic Regression,1,4,2
+DASS_Stress,Logistic Regression,2,0,13
+DASS_Stress,Logistic Regression,2,1,18
+DASS_Stress,Logistic Regression,2,2,17
+DASS_Stress,Logistic Regression,2,3,10
+DASS_Stress,Logistic Regression,2,4,3
+DASS_Stress,Logistic Regression,3,0,4
+DASS_Stress,Logistic Regression,3,1,7
+DASS_Stress,Logistic Regression,3,2,11
+DASS_Stress,Logistic Regression,3,3,12
+DASS_Stress,Logistic Regression,3,4,1
+DASS_Stress,Logistic Regression,4,0,0
+DASS_Stress,Logistic Regression,4,1,2
+DASS_Stress,Logistic Regression,4,2,6
+DASS_Stress,Logistic Regression,4,3,4
+DASS_Stress,Logistic Regression,4,4,2
+DASS_Stress,Random Forest,0,0,228
+DASS_Stress,Random Forest,0,1,18
+DASS_Stress,Random Forest,0,2,25
+DASS_Stress,Random Forest,0,3,4
+DASS_Stress,Random Forest,0,4,0
+DASS_Stress,Random Forest,1,0,24
+DASS_Stress,Random Forest,1,1,10
+DASS_Stress,Random Forest,1,2,17
+DASS_Stress,Random Forest,1,3,4
+DASS_Stress,Random Forest,1,4,0
+DASS_Stress,Random Forest,2,0,18
+DASS_Stress,Random Forest,2,1,6
+DASS_Stress,Random Forest,2,2,25
+DASS_Stress,Random Forest,2,3,12
+DASS_Stress,Random Forest,2,4,0
+DASS_Stress,Random Forest,3,0,5
+DASS_Stress,Random Forest,3,1,4
+DASS_Stress,Random Forest,3,2,17
+DASS_Stress,Random Forest,3,3,9
+DASS_Stress,Random Forest,3,4,0
+DASS_Stress,Random Forest,4,0,2
+DASS_Stress,Random Forest,4,1,0
+DASS_Stress,Random Forest,4,2,6
+DASS_Stress,Random Forest,4,3,4
+DASS_Stress,Random Forest,4,4,2
+DASS-Anxiety,Dummy,0,0,189
+DASS-Anxiety,Dummy,0,1,0
+DASS-Anxiety,Dummy,0,2,0
+DASS-Anxiety,Dummy,0,3,0
+DASS-Anxiety,Dummy,0,4,0
+DASS-Anxiety,Dummy,1,0,37
+DASS-Anxiety,Dummy,1,1,0
+DASS-Anxiety,Dummy,1,2,0
+DASS-Anxiety,Dummy,1,3,0
+DASS-Anxiety,Dummy,1,4,0
+DASS-Anxiety,Dummy,2,0,91
+DASS-Anxiety,Dummy,2,1,0
+DASS-Anxiety,Dummy,2,2,0
+DASS-Anxiety,Dummy,2,3,0
+DASS-Anxiety,Dummy,2,4,0
+DASS-Anxiety,Dummy,3,0,53
+DASS-Anxiety,Dummy,3,1,0
+DASS-Anxiety,Dummy,3,2,0
+DASS-Anxiety,Dummy,3,3,0
+DASS-Anxiety,Dummy,3,4,0
+DASS-Anxiety,Dummy,4,0,70
+DASS-Anxiety,Dummy,4,1,0
+DASS-Anxiety,Dummy,4,2,0
+DASS-Anxiety,Dummy,4,3,0
+DASS-Anxiety,Dummy,4,4,0
+DASS-Anxiety,Logistic Regression,0,0,97
+DASS-Anxiety,Logistic Regression,0,1,21
+DASS-Anxiety,Logistic Regression,0,2,35
+DASS-Anxiety,Logistic Regression,0,3,21
+DASS-Anxiety,Logistic Regression,0,4,15
+DASS-Anxiety,Logistic Regression,1,0,11
+DASS-Anxiety,Logistic Regression,1,1,4
+DASS-Anxiety,Logistic Regression,1,2,11
+DASS-Anxiety,Logistic Regression,1,3,6
+DASS-Anxiety,Logistic Regression,1,4,5
+DASS-Anxiety,Logistic Regression,2,0,25
+DASS-Anxiety,Logistic Regression,2,1,13
+DASS-Anxiety,Logistic Regression,2,2,23
+DASS-Anxiety,Logistic Regression,2,3,15
+DASS-Anxiety,Logistic Regression,2,4,15
+DASS-Anxiety,Logistic Regression,3,0,9
+DASS-Anxiety,Logistic Regression,3,1,9
+DASS-Anxiety,Logistic Regression,3,2,9
+DASS-Anxiety,Logistic Regression,3,3,12
+DASS-Anxiety,Logistic Regression,3,4,14
+DASS-Anxiety,Logistic Regression,4,0,6
+DASS-Anxiety,Logistic Regression,4,1,7
+DASS-Anxiety,Logistic Regression,4,2,9
+DASS-Anxiety,Logistic Regression,4,3,18
+DASS-Anxiety,Logistic Regression,4,4,30
+DASS-Anxiety,Random Forest,0,0,131
+DASS-Anxiety,Random Forest,0,1,3
+DASS-Anxiety,Random Forest,0,2,35
+DASS-Anxiety,Random Forest,0,3,7
+DASS-Anxiety,Random Forest,0,4,13
+DASS-Anxiety,Random Forest,1,0,14
+DASS-Anxiety,Random Forest,1,1,1
+DASS-Anxiety,Random Forest,1,2,15
+DASS-Anxiety,Random Forest,1,3,2
+DASS-Anxiety,Random Forest,1,4,5
+DASS-Anxiety,Random Forest,2,0,35
+DASS-Anxiety,Random Forest,2,1,3
+DASS-Anxiety,Random Forest,2,2,26
+DASS-Anxiety,Random Forest,2,3,9
+DASS-Anxiety,Random Forest,2,4,18
+DASS-Anxiety,Random Forest,3,0,17
+DASS-Anxiety,Random Forest,3,1,3
+DASS-Anxiety,Random Forest,3,2,14
+DASS-Anxiety,Random Forest,3,3,4
+DASS-Anxiety,Random Forest,3,4,15
+DASS-Anxiety,Random Forest,4,0,7
+DASS-Anxiety,Random Forest,4,1,0
+DASS-Anxiety,Random Forest,4,2,14
+DASS-Anxiety,Random Forest,4,3,9
+DASS-Anxiety,Random Forest,4,4,40
+DASS-Depression,Dummy,0,0,206
+DASS-Depression,Dummy,0,1,0
+DASS-Depression,Dummy,0,2,0
+DASS-Depression,Dummy,0,3,0
+DASS-Depression,Dummy,0,4,0
+DASS-Depression,Dummy,1,0,52
+DASS-Depression,Dummy,1,1,0
+DASS-Depression,Dummy,1,2,0
+DASS-Depression,Dummy,1,3,0
+DASS-Depression,Dummy,1,4,0
+DASS-Depression,Dummy,2,0,101
+DASS-Depression,Dummy,2,1,0
+DASS-Depression,Dummy,2,2,0
+DASS-Depression,Dummy,2,3,0
+DASS-Depression,Dummy,2,4,0
+DASS-Depression,Dummy,3,0,31
+DASS-Depression,Dummy,3,1,0
+DASS-Depression,Dummy,3,2,0
+DASS-Depression,Dummy,3,3,0
+DASS-Depression,Dummy,3,4,0
+DASS-Depression,Dummy,4,0,50
+DASS-Depression,Dummy,4,1,0
+DASS-Depression,Dummy,4,2,0
+DASS-Depression,Dummy,4,3,0
+DASS-Depression,Dummy,4,4,0
+DASS-Depression,Logistic Regression,0,0,126
+DASS-Depression,Logistic Regression,0,1,28
+DASS-Depression,Logistic Regression,0,2,31
+DASS-Depression,Logistic Regression,0,3,9
+DASS-Depression,Logistic Regression,0,4,12
+DASS-Depression,Logistic Regression,1,0,12
+DASS-Depression,Logistic Regression,1,1,12
+DASS-Depression,Logistic Regression,1,2,16
+DASS-Depression,Logistic Regression,1,3,4
+DASS-Depression,Logistic Regression,1,4,8
+DASS-Depression,Logistic Regression,2,0,25
+DASS-Depression,Logistic Regression,2,1,24
+DASS-Depression,Logistic Regression,2,2,27
+DASS-Depression,Logistic Regression,2,3,18
+DASS-Depression,Logistic Regression,2,4,7
+DASS-Depression,Logistic Regression,3,0,4
+DASS-Depression,Logistic Regression,3,1,7
+DASS-Depression,Logistic Regression,3,2,8
+DASS-Depression,Logistic Regression,3,3,7
+DASS-Depression,Logistic Regression,3,4,5
+DASS-Depression,Logistic Regression,4,0,7
+DASS-Depression,Logistic Regression,4,1,5
+DASS-Depression,Logistic Regression,4,2,9
+DASS-Depression,Logistic Regression,4,3,9
+DASS-Depression,Logistic Regression,4,4,20
+DASS-Depression,Random Forest,0,0,156
+DASS-Depression,Random Forest,0,1,3
+DASS-Depression,Random Forest,0,2,38
+DASS-Depression,Random Forest,0,3,1
+DASS-Depression,Random Forest,0,4,8
+DASS-Depression,Random Forest,1,0,17
+DASS-Depression,Random Forest,1,1,7
+DASS-Depression,Random Forest,1,2,19
+DASS-Depression,Random Forest,1,3,2
+DASS-Depression,Random Forest,1,4,7
+DASS-Depression,Random Forest,2,0,30
+DASS-Depression,Random Forest,2,1,8
+DASS-Depression,Random Forest,2,2,45
+DASS-Depression,Random Forest,2,3,4
+DASS-Depression,Random Forest,2,4,14
+DASS-Depression,Random Forest,3,0,3
+DASS-Depression,Random Forest,3,1,5
+DASS-Depression,Random Forest,3,2,15
+DASS-Depression,Random Forest,3,3,0
+DASS-Depression,Random Forest,3,4,8
+DASS-Depression,Random Forest,4,0,4
+DASS-Depression,Random Forest,4,1,2
+DASS-Depression,Random Forest,4,2,15
+DASS-Depression,Random Forest,4,3,2
+DASS-Depression,Random Forest,4,4,27
